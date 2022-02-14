@@ -1,9 +1,10 @@
-# Play draughts online
-
+================
+Play draughts online
+================
 This is a simple HTML & javascript game website where you can play draughts online against the computer, an old but challenging board game on an 8×8 checkers-board.
 
-## How to play draughts?
-
+How to play draughts?
+=======
 The rules are simple:
 
 - The pieces must always move one square at a time, on the black squares.
